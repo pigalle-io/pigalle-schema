@@ -1,6 +1,6 @@
 {
-  "name": "pigalle-schema-alpha",
-  "version": "0.0.1",
+  "name": "@pigalle/schemas",
+  "version": "0.0.1-alpha1",
   "description": "A set of tools for managing schemas",
   "main": "dist/pigalle-schema-alpha.dist.js",
   "scripts": {
